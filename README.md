@@ -17,3 +17,5 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
 - | Jul 14-19 | 1 | [Homework: Twitter UI](https://github.com/accesscode-2-2/unit-1-hw-week-0)
 8 | Jul 21 | 2 | [Auto Layout / MVC](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-2/2015_07_21.md)
 9 | Jul 23 | 2 | [UI Elements](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-2/2015_07_23.md)
+10 | Jul 25 | 2 | [View controller lifecycle / UITableView](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-2/2015_07_25.md)
+11 | Jul 26 | 2 | [UITableViewController/UITableView](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-2/2015_07_26.md)
