@@ -19,3 +19,5 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
 9 | Jul 23 | 2 | [UI Elements](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-2/2015_07_23.md)
 10 | Jul 25 | 2 | [View controller lifecycle / UITableView](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-2/2015_07_25.md)
 11 | Jul 26 | 2 | [UITableViewController/UITableView](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-2/2015_07_26.md)
+12 | Jul 28 | 3 | [UINavigationController](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-3/2015_07_28.md)
+13 | Jul 30 | 3 | [UITabBarController](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-3/2015_07_30.md)
