@@ -31,4 +31,15 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
 21 | Aug 13 | 5 | [Data Organization](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-5/2015_08_13.md)
 22 | Aug 15 | 5 | [NSTimer + State](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-5/2015_08_15.md)
 23 | Aug 16 | 5 | [TBD](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-5/2015_08_16.md)
+24 | Aug 18 | 6 | [TBD](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-6/2015_08_18.md)
+25 | Aug 20 | 6 | [TBD](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-6/2015_08_20.md)
+26 | Aug 22 | 6 | [TBD](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-6/2015_08_22.md)
+27 | Aug 23 | 6 | [TBD](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-6/2015_08_23.md)
+28 | Aug 25 | 7 | [TBD](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-7/2015_08_25.md)
+29 | Aug 27 | 7 | [TBD](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-7/2015_08_27.md)
+30 | Aug 29 | 7 | [TBD](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-7/2015_08_29.md)
+31 | Aug 30 | 7 | [Unit 1 Assessment](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-7/2015_08_30.md)
+32 | Sep 01 | 8 | [Practice Demos](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-8/2015_08_01.md)
+33 | Sep 03 | 8 | [Final Demos / After Party](https://github.com/accesscode-2-2/unit-1/blob/master/lessons/week-8/2015_08_03.md)
+
 
